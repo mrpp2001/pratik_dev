@@ -293,9 +293,9 @@ section {
   display: flex;
 }
 
-/* .about-pic {
+.about-pic {
   border-radius: 2rem;
-} */
+}
 
 .arrow {
   position: absolute;
@@ -325,9 +325,9 @@ section {
 
 }
 
-.section__pic-container img{
+/* .section__pic-container img{
   border-radius: 50%;
-}
+} */
 
 /* Skills SECTION */
 
